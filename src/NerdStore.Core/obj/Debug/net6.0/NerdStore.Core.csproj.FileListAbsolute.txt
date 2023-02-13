@@ -1,0 +1,12 @@
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.deps.json
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.csproj.AssemblyReference.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.AssemblyInfo.cs
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.csproj.CoreCompileInputs.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\refint\NerdStore.Core.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\ref\NerdStore.Core.dll

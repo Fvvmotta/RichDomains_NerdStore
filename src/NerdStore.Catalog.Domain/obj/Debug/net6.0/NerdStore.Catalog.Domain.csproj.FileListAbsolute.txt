@@ -1,0 +1,5 @@
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.csproj.AssemblyReference.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.AssemblyInfoInputs.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.AssemblyInfo.cs
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.csproj.CoreCompileInputs.cache
