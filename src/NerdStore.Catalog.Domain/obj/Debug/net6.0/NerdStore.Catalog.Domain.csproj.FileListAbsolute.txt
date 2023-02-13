@@ -3,3 +3,13 @@ C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.AssemblyInfoInputs.cache
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.AssemblyInfo.cs
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\bin\Debug\net6.0\NerdStore.Catalog.Domain.deps.json
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\bin\Debug\net6.0\NerdStore.Catalog.Domain.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\bin\Debug\net6.0\NerdStore.Catalog.Domain.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.csproj.CopyComplete
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\refint\NerdStore.Catalog.Domain.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\NerdStore.Catalog.Domain.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Catalog.Domain\obj\Debug\net6.0\ref\NerdStore.Catalog.Domain.dll

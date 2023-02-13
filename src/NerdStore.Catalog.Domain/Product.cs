@@ -1,9 +1,8 @@
-﻿
-using NerdStore.Core.DomainObjects;
+﻿using NerdStore.Core.DomainObjects;
 
 namespace NerdStore.Catalog.Domain
 {
-    public class Product : Entity, IAggregateRoot 
+    public class Product : Entity, IAggregateRoot
     {
         public Guid CategoryId { get; private set; }
         public string Name { get; private set; }
@@ -13,9 +12,10 @@ namespace NerdStore.Catalog.Domain
         public DateTime RegisterDate { get; private set; }
         public string Image { get; private set; }
         public int InventoryQuantity { get; private set; }
+        public Dimensions Dimensions { get; private set; }
         public Category Category { get; private set; }
 
-        public Product(string name, string description, bool active, decimal value, Guid categoryId, DateTime registerDate, string image)
+        public Product(string name, string description, bool active, decimal value, Guid categoryId, DateTime registerDate, string image, Dimensions dimensions)
         {
             CategoryId = categoryId;
             Name = name;
@@ -24,6 +24,7 @@ namespace NerdStore.Catalog.Domain
             Value = value;
             RegisterDate = registerDate;
             Image = image;
+            Dimensions = dimensions;
 
             Validate();
         }
@@ -54,12 +55,10 @@ namespace NerdStore.Catalog.Domain
         {
             InventoryQuantity += quantity;
         }
-
         public bool HasInventory(int quantity)
         {
             return InventoryQuantity >= quantity;
         }
-
         public void Validate()
         {
             AssertionConcern.AssertArgumentIfEmpty(Name, "Name of the product can not be empty");

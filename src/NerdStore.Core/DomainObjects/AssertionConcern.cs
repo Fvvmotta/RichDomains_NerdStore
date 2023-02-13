@@ -105,6 +105,41 @@ namespace NerdStore.Core.DomainObjects
                 throw new DomainException(message);
             }
         }
+        public static void AssertArgumentIfLessThan(double value, double minimum, string message)
+        {
+            if (value < minimum)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void AssertArgumentIfLessThan(float value, float minimum, string message)
+        {
+            if (value < minimum)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void AssertArgumentIfLessThan(int value, int minimum, string message)
+        {
+            if (value < minimum)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void AssertArgumentIfLessThan(long value, long minimum, string message)
+        {
+            if (value < minimum)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void AssertArgumentIfLessThan(decimal value, decimal minimum, string message)
+        {
+            if (value < minimum)
+            {
+                throw new DomainException(message);
+            }
+        }
         public static void AssertArgumentIfLessThanOrEqualsMinimun(double value, double minimum, string message)
         {
             if (value <= minimum)
