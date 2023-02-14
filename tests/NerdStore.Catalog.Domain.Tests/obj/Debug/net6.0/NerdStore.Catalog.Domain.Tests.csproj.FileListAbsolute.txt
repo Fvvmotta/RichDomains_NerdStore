@@ -8,6 +8,8 @@ C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domai
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domain.Tests\bin\Debug\net6.0\NerdStore.Catalog.Domain.Tests.runtimeconfig.json
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domain.Tests\bin\Debug\net6.0\NerdStore.Catalog.Domain.Tests.dll
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domain.Tests\bin\Debug\net6.0\NerdStore.Catalog.Domain.Tests.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domain.Tests\bin\Debug\net6.0\MediatR.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domain.Tests\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domain.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domain.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\tests\NerdStore.Catalog.Domain.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll

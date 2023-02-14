@@ -1,0 +1,384 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj",
+        "projectName": "NerdStore.Catalog.Application",
+        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj"
+              },
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
+              },
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj",
+        "projectName": "NerdStore.Catalog.Data",
+        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
+              },
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlserver": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
+        "projectName": "NerdStore.Catalog.Domain",
+        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectName": "NerdStore.Core",
+        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+        "projectName": "NerdStore.WebApp.MVC",
+        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj"
+              },
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj"
+              },
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
+              },
+              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

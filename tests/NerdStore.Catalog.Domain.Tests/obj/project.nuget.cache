@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eGLHF6SWgLZLsveNWugA5K+lKQqHvQHMUmVDaqknJlesR82CbSEIAnV7lPux978VlnF2Itz5t1qSlX8vLCasFg==",
+  "dgSpecHash": "VXMBfHN4E9bC/m/bOj1U97q5Z2sKq4goFTgihk/BgIM2VRM1nF/WQXxBI4w7qz0JjJWtsRIAfYMFg9X+R6ejAA==",
   "success": true,
   "projectFilePath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\tests\\NerdStore.Catalog.Domain.Tests\\NerdStore.Catalog.Domain.Tests.csproj",
   "expectedPackageFiles": [
