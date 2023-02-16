@@ -5,6 +5,42 @@
       "PackagePath": "staticwebassets\\NerdStore.WebApp.MVC.bundle.scp.css"
     },
     {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\,ug3.jpg",
+      "PackagePath": "staticwebassets\\Images\\,ug3.jpg"
+    },
+    {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\mug1.jpg",
+      "PackagePath": "staticwebassets\\Images\\mug1.jpg"
+    },
+    {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\mug2.jpg",
+      "PackagePath": "staticwebassets\\Images\\mug2.jpg"
+    },
+    {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\mug4.jpg",
+      "PackagePath": "staticwebassets\\Images\\mug4.jpg"
+    },
+    {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\shirt1.jpg",
+      "PackagePath": "staticwebassets\\Images\\shirt1.jpg"
+    },
+    {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\shirt2.jpg",
+      "PackagePath": "staticwebassets\\Images\\shirt2.jpg"
+    },
+    {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\shirt3.jpg",
+      "PackagePath": "staticwebassets\\Images\\shirt3.jpg"
+    },
+    {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\shirt4.jpg",
+      "PackagePath": "staticwebassets\\Images\\shirt4.jpg"
+    },
+    {
+      "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\Images\\shirt5.jpg",
+      "PackagePath": "staticwebassets\\Images\\shirt5.jpg"
+    },
+    {
       "Id": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
