@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "933jIInbpIJQ/4GmMUfPFy3ozW8EoGpMrucVDOTkiFNGpwhi2VOdvDaiivLbea/Zi2oSZKzsBYy0NJR0EF2cIw==",
+  "dgSpecHash": "9Ha3ytqD7uyrSgMMYw+5Sqf7729zNp54be9/Ich8XrrCbncj39EdoCWebyvaAJlzuGPAwz5VUuhTO0oXAjDRGg==",
   "success": true,
   "projectFilePath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],

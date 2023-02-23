@@ -6,10 +6,10 @@ namespace NerdStore.Catalog.Domain
     public class InventoryService : IInventoryService
     {
         private readonly IProductRepository _productRepository;
-        private readonly IMediatrHandler _bus;
+        private readonly IMediatorHandler _bus;
 
         public InventoryService(IProductRepository productRepository,
-                                IMediatrHandler bus)
+                                IMediatorHandler bus)
         {
             _productRepository = productRepository;
             _bus = bus;

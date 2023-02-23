@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VXMBfHN4E9bC/m/bOj1U97q5Z2sKq4goFTgihk/BgIM2VRM1nF/WQXxBI4w7qz0JjJWtsRIAfYMFg9X+R6ejAA==",
+  "dgSpecHash": "DfWMqjH73MaUKLGORV2JTnQrj07a8njA6lAQTu4itGVWb9+xRTxoL51RCA0zEkorLOdKLOjxvaUcW96AYlSOpw==",
   "success": true,
   "projectFilePath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\tests\\NerdStore.Catalog.Domain.Tests\\NerdStore.Catalog.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

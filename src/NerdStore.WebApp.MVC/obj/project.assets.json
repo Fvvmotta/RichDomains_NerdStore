@@ -31,6 +31,19 @@
           "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "FluentValidation/11.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1073,6 +1086,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "FluentValidation": "11.5.1",
           "MediatR": "11.1.0"
         },
         "compile": {
@@ -1080,6 +1094,48 @@
         },
         "runtime": {
           "bin/placeholder/NerdStore.Core.dll": {}
+        }
+      },
+      "NerdStore.Sales.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "NerdStore.Core": "1.0.0",
+          "NerdStore.Sales.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Sales.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Sales.Application.dll": {}
+        }
+      },
+      "NerdStore.Sales.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.11",
+          "NerdStore.Sales.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Sales.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Sales.Data.dll": {}
+        }
+      },
+      "NerdStore.Sales.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "NerdStore.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Sales.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Sales.Domain.dll": {}
         }
       }
     }
@@ -1112,6 +1168,29 @@
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "FluentValidation/11.5.1": {
+      "sha512": "0h1Q5lNOLLyYTWMJmyNoMqhY4CBRvvUWvJP1R4F2CnmmzuWwvB0A8aVmw5+lOuwYnwUwCRrdeMLbc81F38ahNQ==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "Humanizer.Core/2.8.26": {
@@ -2665,6 +2744,21 @@
       "type": "project",
       "path": "../NerdStore.Core/NerdStore.Core.csproj",
       "msbuildProject": "../NerdStore.Core/NerdStore.Core.csproj"
+    },
+    "NerdStore.Sales.Application/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Sales.Application/NerdStore.Sales.Application.csproj",
+      "msbuildProject": "../NerdStore.Sales.Application/NerdStore.Sales.Application.csproj"
+    },
+    "NerdStore.Sales.Data/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Sales.Data/NerdStore.Sales.Data.csproj",
+      "msbuildProject": "../NerdStore.Sales.Data/NerdStore.Sales.Data.csproj"
+    },
+    "NerdStore.Sales.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Sales.Domain/NerdStore.Sales.Domain.csproj",
+      "msbuildProject": "../NerdStore.Sales.Domain/NerdStore.Sales.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2679,7 +2773,9 @@
       "NerdStore.Catalog.Application >= 1.0.0",
       "NerdStore.Catalog.Data >= 1.0.0",
       "NerdStore.Catalog.Domain >= 1.0.0",
-      "NerdStore.Core >= 1.0.0"
+      "NerdStore.Core >= 1.0.0",
+      "NerdStore.Sales.Application >= 1.0.0",
+      "NerdStore.Sales.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2720,6 +2816,12 @@
             },
             "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
               "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            },
+            "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj": {
+              "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj"
+            },
+            "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj": {
+              "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj"
             }
           }
         }

@@ -1,0 +1,15 @@
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\bin\Debug\net6.0\NerdStore.Sales.Domain.deps.json
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\bin\Debug\net6.0\NerdStore.Sales.Domain.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\bin\Debug\net6.0\NerdStore.Sales.Domain.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\NerdStore.Sales.Domain.csproj.AssemblyReference.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\NerdStore.Sales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\NerdStore.Sales.Domain.AssemblyInfoInputs.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\NerdStore.Sales.Domain.AssemblyInfo.cs
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\NerdStore.Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\NerdStore.Sales.Domain.csproj.CopyComplete
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\NerdStore.Sales.Domain.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\refint\NerdStore.Sales.Domain.dll
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\NerdStore.Sales.Domain.pdb
+C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Domain\obj\Debug\net6.0\ref\NerdStore.Sales.Domain.dll
