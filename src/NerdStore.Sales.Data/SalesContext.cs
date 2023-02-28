@@ -55,9 +55,11 @@ namespace NerdStore.Sales.Data
                     entry.Property("RegisterDate").IsModified = false;
                 }
             }
-            await _mediatorHandler.PublishEvents(this);
 
-            return await base.SaveChangesAsync() > 0;
+            var sucess = await base.SaveChangesAsync() > 0;
+            if (sucess) await _mediatorHandler.PublishEvents(this);
+
+            return sucess;
         }
     }
 }
