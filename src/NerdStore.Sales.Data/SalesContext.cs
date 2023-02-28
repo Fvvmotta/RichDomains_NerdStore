@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using NerdStore.Core.Communication.Mediator;
 using NerdStore.Core.Data;
 using NerdStore.Core.Messages;
 using NerdStore.Sales.Domain;
@@ -12,8 +13,11 @@ namespace NerdStore.Sales.Data
 {
     public class SalesContext : DbContext, IUnitOfWork
     {
-        public SalesContext(DbContextOptions<SalesContext> options) : base(options)
+        private readonly IMediatorHandler _mediatorHandler;
+
+        public SalesContext(DbContextOptions<SalesContext> options, IMediatorHandler mediatorHandler) : base(options)
         {
+            _mediatorHandler = mediatorHandler;
         }
 
         public DbSet<Order> Orders { get; set; }
@@ -51,6 +55,8 @@ namespace NerdStore.Sales.Data
                     entry.Property("RegisterDate").IsModified = false;
                 }
             }
+            await _mediatorHandler.PublishEvents(this);
+
             return await base.SaveChangesAsync() > 0;
         }
     }

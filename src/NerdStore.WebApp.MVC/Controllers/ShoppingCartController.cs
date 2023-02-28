@@ -43,7 +43,7 @@ namespace NerdStore.WebApp.MVC.Controllers
 
             if (OperationValid())
             {
-                return RedirectToAction("Index");
+                return RedirectToAction("Index", "Display");
             }
 
             TempData["Errors"] = GetErrorMessages();
