@@ -9,85 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NerdStore.WebApp.MVC
 build_property.RootNamespace = NerdStore.WebApp.MVC
-build_property.ProjectDir = C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.WebApp.MVC\
+build_property.ProjectDir = C:\Labs\RichDomains_NerdStore\src\NerdStore.WebApp.MVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.WebApp.MVC
+build_property.MSBuildProjectDirectory = C:\Labs\RichDomains_NerdStore\src\NerdStore.WebApp.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/AdminProducts/Index.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/AdminProducts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdWN0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/AdminProducts/Inventory.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/AdminProducts/Inventory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdWN0c1xJbnZlbnRvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/AdminProducts/NewProduct.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/AdminProducts/NewProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdWN0c1xOZXdQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/AdminProducts/UpdateProduct.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/AdminProducts/UpdateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdWN0c1xVcGRhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Display/Index.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Display/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzcGxheVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Display/ProductDetail.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Display/ProductDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzcGxheVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Home/Index.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Home/Privacy.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/Components/Cart/Default.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/Components/Cart/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/Components/Summary/Default.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/Components/Summary/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/Error.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/_CookieConsentPartial.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/_CookieConsentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/_LoginPartial.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/ShoppingCart/Index.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/ShoppingCart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/_ViewImports.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/_ViewStart.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Labs/projects/RichDomains - NerdStore/NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/_Layout.cshtml]
+[C:/Labs/RichDomains_NerdStore/src/NerdStore.WebApp.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a1roc1au4e

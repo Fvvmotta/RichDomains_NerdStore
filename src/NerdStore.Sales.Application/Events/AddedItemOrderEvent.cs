@@ -2,7 +2,7 @@
 
 namespace NerdStore.Sales.Application.Events
 {
-    public class AddedItemToOrderEvent : Event
+    public class AddedItemOrderEvent : Event
     {
         public Guid ClientId { get; private set; }
         public Guid OrderId { get; private set; }
@@ -12,7 +12,7 @@ namespace NerdStore.Sales.Application.Events
         public decimal UnitValue { get; private set; }
         public int  Quantity { get; private set; }
 
-        public AddedItemToOrderEvent(Guid clientId, Guid orderId, Guid productId, string productName, decimal unitValue, int quantity)
+        public AddedItemOrderEvent(Guid clientId, Guid orderId, Guid productId, string productName, decimal unitValue, int quantity)
         {
             AggregateId = orderId;
             ClientId = clientId;

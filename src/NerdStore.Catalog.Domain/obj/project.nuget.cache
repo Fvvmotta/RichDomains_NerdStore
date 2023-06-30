@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9Ha3ytqD7uyrSgMMYw+5Sqf7729zNp54be9/Ich8XrrCbncj39EdoCWebyvaAJlzuGPAwz5VUuhTO0oXAjDRGg==",
+  "dgSpecHash": "zXKURY5y/nlwS4jAygRAqsko1S0dfuAnlnPZWXU9uM4TYdwz83JEGGDHzVHc2Zny2w+OdNX+4vvFv3ws64jnbQ==",
   "success": true,
-  "projectFilePath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
+  "projectFilePath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+    "C:\\Users\\Fernando Motta\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Fernando Motta\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Fernando Motta\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

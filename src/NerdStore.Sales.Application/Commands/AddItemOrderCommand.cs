@@ -3,7 +3,7 @@ using NerdStore.Core.Messages;
 
 namespace NerdStore.Sales.Application.Commands
 {
-    public class AddItemToOrderCommand : Command
+    public class AddItemOrderCommand : Command
     {
         public Guid ClientId { get; private set; }
         public  Guid ProductId { get; private set; }
@@ -11,7 +11,7 @@ namespace NerdStore.Sales.Application.Commands
         public int Quantity { get; private set; }
         public decimal UnitValue { get; private set; }
 
-        public AddItemToOrderCommand(Guid clientId, Guid productId, string name, int quantity, decimal unitValue)
+        public AddItemOrderCommand(Guid clientId, Guid productId, string name, int quantity, decimal unitValue)
         {
             ClientId = clientId;
             ProductId = productId;
@@ -27,7 +27,7 @@ namespace NerdStore.Sales.Application.Commands
         }
     }
 
-    public class AddItemToOrderValidation : AbstractValidator<AddItemToOrderCommand>
+    public class AddItemToOrderValidation : AbstractValidator<AddItemOrderCommand>
     {
         public AddItemToOrderValidation()
         {

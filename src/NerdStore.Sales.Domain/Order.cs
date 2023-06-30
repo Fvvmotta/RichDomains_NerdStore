@@ -1,4 +1,5 @@
-﻿using NerdStore.Core.DomainObjects;
+﻿using FluentValidation.Results;
+using NerdStore.Core.DomainObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,11 +38,16 @@ namespace NerdStore.Sales.Domain
             _orderItems= new List<OrderItem>();
         }
 
-        public void ApplyVoucher(Voucher voucher)
+        public ValidationResult ApplyVoucher(Voucher voucher)
         {
+            var validationResult = voucher.ValidateIfAplicable();
+            if (!validationResult.IsValid) return validationResult;
+
             Voucher = voucher;
             UsedVoucher = true;
             CaculateOrderValue();
+
+            return validationResult;
         }
 
         public void CaculateOrderValue()

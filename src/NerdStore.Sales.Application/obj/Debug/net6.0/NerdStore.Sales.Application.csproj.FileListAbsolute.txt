@@ -15,3 +15,20 @@ C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Applicati
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\refint\NerdStore.Sales.Application.dll
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.pdb
 C:\Labs\projects\RichDomains - NerdStore\NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\ref\NerdStore.Sales.Application.dll
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\bin\Debug\net6.0\NerdStore.Sales.Application.deps.json
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\bin\Debug\net6.0\NerdStore.Sales.Application.dll
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\bin\Debug\net6.0\NerdStore.Sales.Application.pdb
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\bin\Debug\net6.0\NerdStore.Sales.Domain.dll
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\bin\Debug\net6.0\NerdStore.Sales.Domain.pdb
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.csproj.AssemblyReference.cache
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.AssemblyInfoInputs.cache
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.AssemblyInfo.cs
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.csproj.CoreCompileInputs.cache
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.csproj.CopyComplete
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.dll
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\refint\NerdStore.Sales.Application.dll
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\NerdStore.Sales.Application.pdb
+C:\Labs\RichDomains_NerdStore\src\NerdStore.Sales.Application\obj\Debug\net6.0\ref\NerdStore.Sales.Application.dll

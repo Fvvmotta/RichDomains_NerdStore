@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {}
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj": {
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj",
+        "projectUniqueName": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj",
         "projectName": "NerdStore.Catalog.Application",
-        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\obj\\",
+        "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj",
+        "packagesPath": "C:\\Users\\Fernando Motta\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Motta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -71,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj",
+        "projectUniqueName": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj",
         "projectName": "NerdStore.Catalog.Data",
-        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\obj\\",
+        "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj",
+        "packagesPath": "C:\\Users\\Fernando Motta\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Motta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,11 +99,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -149,21 +149,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
+        "projectUniqueName": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
         "projectName": "NerdStore.Catalog.Domain",
-        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\obj\\",
+        "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\Fernando Motta\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Motta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,8 +177,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -214,21 +214,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\obj\\",
+        "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "packagesPath": "C:\\Users\\Fernando Motta\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Motta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -279,21 +279,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj": {
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj",
+        "projectUniqueName": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj",
         "projectName": "NerdStore.Sales.Application",
-        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Application\\obj\\",
+        "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj",
+        "packagesPath": "C:\\Users\\Fernando Motta\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Motta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -307,11 +307,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj"
               }
             }
           }
@@ -341,21 +341,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj": {
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj",
+        "projectUniqueName": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj",
         "projectName": "NerdStore.Sales.Data",
-        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Data\\obj\\",
+        "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj",
+        "packagesPath": "C:\\Users\\Fernando Motta\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Motta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -369,8 +369,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj"
               }
             }
           }
@@ -416,21 +416,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj": {
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj",
+        "projectUniqueName": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj",
         "projectName": "NerdStore.Sales.Domain",
-        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Domain\\obj\\",
+        "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Domain\\NerdStore.Sales.Domain.csproj",
+        "packagesPath": "C:\\Users\\Fernando Motta\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Motta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -444,8 +444,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -475,21 +475,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {
+    "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+        "projectUniqueName": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
         "projectName": "NerdStore.WebApp.MVC",
-        "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.WebApp.MVC\\obj\\",
+        "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+        "packagesPath": "C:\\Users\\Fernando Motta\\.nuget\\packages\\",
+        "outputPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.WebApp.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Motta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -503,23 +503,23 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Application\\NerdStore.Catalog.Application.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Data\\NerdStore.Catalog.Data.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Catalog.Domain\\NerdStore.Catalog.Domain.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Application\\NerdStore.Sales.Application.csproj"
               },
-              "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj": {
-                "projectPath": "C:\\Labs\\projects\\RichDomains - NerdStore\\NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj"
+              "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj": {
+                "projectPath": "C:\\Labs\\RichDomains_NerdStore\\src\\NerdStore.Sales.Data\\NerdStore.Sales.Data.csproj"
               }
             }
           }
@@ -582,7 +582,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

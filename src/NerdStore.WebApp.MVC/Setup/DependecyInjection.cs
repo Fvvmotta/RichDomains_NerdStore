@@ -35,14 +35,24 @@ namespace NerdStore.WebApp.MVC.Setup
             services.AddScoped<INotificationHandler<ProductBelowInventoryEvent>, ProductEventHandler>();
 
             //sales
-            services.AddScoped<IRequestHandler<AddItemToOrderCommand, bool>, OrderCommandHandler>();
+            services.AddScoped<IRequestHandler<AddItemOrderCommand, bool>, OrderCommandHandler>();
             services.AddScoped<IOrderRepository, OrderRepository>();
             services.AddScoped<IOrderQueries, OrderQueries>();
             services.AddScoped<SalesContext>();
 
+            services.AddScoped<IRequestHandler<AddItemOrderCommand, bool>, OrderCommandHandler>();
+            services.AddScoped<IRequestHandler<UpdateItemOrderCommand, bool>, OrderCommandHandler>();
+            services.AddScoped<IRequestHandler<RemoveItemOrderCommand, bool>, OrderCommandHandler>();
+            services.AddScoped<IRequestHandler<ApplyVoucherOrderCommand, bool>, OrderCommandHandler>();
+            //services.AddScoped<IRequestHandler<InitiateOrderCommand, bool>, OrderCommandHandler>();
+            //services.AddScoped<IRequestHandler<FinalizeOrderCommand, bool>, OrderCommandHandler>();
+            //services.AddScoped<IRequestHandler<CancelProcessOrderCommand, bool>, OrderCommandHandler>();
+            //services.AddScoped<IRequestHandler<CancelProcessOrderReturnInventoryCommand, bool>, OrderCommandHandler>();
+
+
             services.AddScoped<INotificationHandler<InitiatedOrderDraftEvent>, OrderEventHandler>();
             services.AddScoped<INotificationHandler<UpdatedOrderEvent>, OrderEventHandler>();
-            services.AddScoped<INotificationHandler<AddedItemToOrderEvent>, OrderEventHandler>();
+            services.AddScoped<INotificationHandler<AddedItemOrderEvent>, OrderEventHandler>();
             
             return services;
         }
